@@ -25,8 +25,8 @@ int main() {
     }
     //cout << "There are " << theCounties.size() << " counties in data set." << endl;
 
-    cout << "**Info about SB County**: Santa Barbara County Percent population over 65: " << percentPopOver65.at(229) << endl;
-    cout << " Percent population under 18: " << percentPopUnder18.at(229) << endl;
+    cout << "**Info about SB County**: Santa Barbara County Percent population over 65: " << percentPopOver65.at(227) << endl;
+    cout << " Percent population under 18: " << percentPopUnder18.at(227) << endl;
 
     return 0;
 }
